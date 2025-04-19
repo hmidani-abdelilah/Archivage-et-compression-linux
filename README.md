@@ -184,19 +184,19 @@ tar -xvJf archive.tar.xz
 |tar.bz2 | 228.2 | 95.4 | 86 | 2.65 | 83 | 1.14 | 2.37 | 42 |
 | tar.xz | 228.2 | 80 | 249 | 0.91 | 58 | 1.37 | 2.83 | 35|
 
-![حجم الملف المضغوط](https://linuxaw.com/wp-content/uploads/2021/06/compression-size.png)
+![حجم الملف المضغوط](compression-size.png)
 
-![مدة الضغط](https://linuxaw.com/wp-content/uploads/2021/06/compression-duration.png)
+![مدة الضغط](compression-duration.png)
 
-![سرعة الضغط](https://linuxaw.com/wp-content/uploads/2021/06/compression-speed.png)
+![سرعة الضغط](compression-speed.png)
 
-![مدة فك الضغط](https://linuxaw.com/wp-content/uploads/2021/06/extraction-duration.png)
+![مدة فك الضغط](extraction-duration.png)
 
-![سرعة فك الضغط](https://linuxaw.com/wp-content/uploads/2021/06/extraction-speed.png)
+![سرعة فك الضغط](extraction-speed.png)
 
-![نسبة الضغط 1](https://linuxaw.com/wp-content/uploads/2021/06/compression-ratio-1.png)
+![نسبة الضغط 1](compression-ratio-1.png)
 
-![نسبة الضغط 2](https://linuxaw.com/wp-content/uploads/2021/06/compression-ratio-2.png)
+![نسبة الضغط 2](compression-ratio-2.png)
 
 ## 📌 الارشفة ب: `zip` و `unzip`
 `zip` هي أداة شهيرة تدعم الأرشفة والضغط في نفس الوقت، وتُستخدم على جميع أنظمة التشغيل تقريبًا.
