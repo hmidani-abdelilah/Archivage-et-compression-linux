@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a59a4ac9-8d51-4c03-9aaf-a2099d82db12)# archive and compression in linux
+# archive and compression in linux
 # أرشفة وضغط الملفات على جنو/لينكس
 
 
