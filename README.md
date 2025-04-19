@@ -306,7 +306,7 @@ gpg --batch --passphrase toto123 -c test.txt
 ```bash
 gpg --batch --passphrase toto123 -o test.txt -d test.txt.gpg
 ```
-
+--- 
 🔹 **إنشاء زوج مفاتيح:**
 ```bash
 gpg --full-generate-key
