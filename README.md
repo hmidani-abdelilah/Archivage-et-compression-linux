@@ -5,7 +5,7 @@
 
 دليلك للتعرف على أشهر صيغ أرشفة وضغط الملفات على أنظمة جنو/لينكس مع مقارنة عملية تبين الفرق بينها.
 
-![](https://linuxaw.com/wp-content/uploads/2021/06/archive-and-compress-files-on-linux-featured-image.png)
+![](archive-and-compress-files-on-linux-featured-image.png)
 
 **المحتويات** [إخفاء](#)
 
