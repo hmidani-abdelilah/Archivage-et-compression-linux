@@ -298,7 +298,7 @@ sudo apt install p7zip-full
 |7z | 203 |  182 | 35.43 | 5.73 | 6.37 | 28.58 | 1.12 | 89.66 |
 
 
-![حجم الملف المضغوط](compression-size.png=500x600)
+![حجم الملف المضغوط](compression-size.png){:height="36px" width="36px"}
 
 ![مدة الضغط](compression-duration.png)
 
