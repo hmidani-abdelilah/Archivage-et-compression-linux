@@ -298,28 +298,14 @@ sudo apt install p7zip-full
 |7z | 203 |  182 | 35.43 | 5.73 | 6.37 | 28.58 | 1.12 | 89.66 |
 
 
-![حجم الملف المضغوط](compression-size.png)
-
-![مدة الضغط](compression-duration.png)
-
-![سرعة الضغط](compression-speed.png)
-
-![مدة فك الضغط](extraction-duration.png)
-
-![سرعة فك الضغط](extraction-speed.png)
-
-![نسبة الضغط 1](compression-ratio-1.png)
-
-![نسبة الضغط 2](compression-ratio-2.png)
-
 <p align="center">
-  <img src="compression-size.png" alt="حجم الملف المضغوط" width="400">
-  <img src="compression-duration.png" alt="مدة الضغط" width="400">
-  <img src="compression-speed.png" alt="سرعة الضغط" width="400">
-  <img src="extraction-duration.png" alt="مدة فك الضغط" width="400">
-  <img src="extraction-speed.png" alt="سرعة فك الضغط" width="400">
-  <img src="compression-ratio-1.png" alt="نسبة الضغط 1" width="400">
-  <img src="compression-ratio-2.png" alt="نسبة الضغط 2" width="400">
+  <img src="compression-size.png" alt="حجم الملف المضغوط" width="800" height="600">
+  <img src="compression-duration.png" alt="مدة الضغط" width="800" height="600">
+  <img src="compression-speed.png" alt="سرعة الضغط" width="800" height="600">
+  <img src="extraction-duration.png" alt="مدة فك الضغط"width="800" height="600">
+  <img src="extraction-speed.png" alt="سرعة فك الضغط" width="800" height="600">
+  <img src="compression-ratio-1.png" alt="نسبة الضغط 1" width="800" height="600">
+  <img src="compression-ratio-2.png" alt="نسبة الضغط 2" width="800" height="600">
 </p>
 
 ## 🛡️ تشفير وفك تشفير الملفات باستخدام (GnuPG)  GPG
